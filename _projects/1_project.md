@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brain Tumor Classification
-description: In this project, I use custom CNN architecture and transfer learning models such as ResNet to classify MRI scans of brain tumors. I was able to achieve an F1 score of 0.96 after incorporating data augmentation and regularization techniques to improve the model's accuracy. 
+description: In this project, I use custom CNN architecture and transfer learning models such as ResNet to classify MRI scans of brain tumors. I was able to achieve an F1 score of 0.96 after incorporating data augmentation and regularization techniques to improve the model's accuracy. I made this project to familiarize myself with the basics of computer vision and image classification.
 img: assets/img/braint.png
 redirect: https://github.com/saunakroy/Brain-Tumor-Classification/blob/main/brainML.ipynb
 importance: 1
