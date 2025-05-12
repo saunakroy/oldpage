@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of my personal and team projects.",
+          description: "A growing collection of my personal and team projects. Click on the tabs below to view the projects. The brain tumor classification, TSP algorithms, and wage analysis projects link to Python notebooks on my GitHub, where you can easily follow along with the code.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -388,22 +388,22 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-brain-tumor-classification",
           title: 'Brain Tumor Classification',
-          description: "In this project, I use custom CNN architecture and transfer learning models such as ResNet to classify MRI scans of brain tumors. I was able to achieve an F1 score of 0.96 after incorporating data augmentation and regularization techniques to improve the model&#39;s accuracy.",
+          description: "In this project, I use custom CNN architecture and transfer learning models such as ResNet to classify MRI scans of brain tumors. I was able to achieve an F1 score of 0.96 after incorporating data augmentation and regularization techniques to improve the model&#39;s accuracy. I made this project to familiarize myself with the basics of computer vision and image classification.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-sigcse-2025-paper",
           title: 'SIGCSE 2025 Paper',
-          description: "This is a research paper I published as part of a team during my internship at UMD’s OUR Summer Research program. In this project, I examined undergraduate AI literacy at UMD through several data analysis/science techniques. I used R/NVivo software to visualize patterns in AI literacy data collected from UMD undergraduates and discovered a positive correlation between students’ technical AI knowledge and perception of AI’s risks to humanity, among other trends and patterns. Our paper has been accepted to and presented at the ACM SIGCSE 2025 conference.",
+          description: "This is a research paper I published as part of a team during the UMD OUR Summer Research internship program. In this project, I examined undergraduate AI literacy at UMD through several data analysis/science techniques. I used R/NVivo software to visualize patterns in AI literacy data collected from UMD undergraduates and discovered a positive correlation between students’ technical AI knowledge and perception of AI’s risks to humanity, among other trends and patterns. Our paper has been accepted to and presented at the ACM SIGCSE 2025 conference.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-tsp-algorithms",
           title: 'TSP Algorithms',
-          description: "This is a project I completed as part of my Introduction to Artificial Intelligence class. Here, I implemented seven different algorithms for solving the Traveling Salesman Problem and visualized their efficiency, runtime, cost, etc., through detailed graphs.",
+          description: "This is a project I completed as part of my Introduction to Artificial Intelligence class. Here, I implemented seven different algorithms for solving the well-known Traveling Salesman Problem using Python and visualized their efficiency, runtime, cost, etc., through detailed graphs. This project took several hours to complete and strongly developed my algorithmic thinking skills as a result.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-wage-analysis",
           title: 'Wage Analysis',
-          description: "This is a project I completed as part of my Introduction to Data Science class. Here, I, along with my team, designed a tutorial for analyzing 49 years of wage data in the US using data analysis/machine learning techniques. We utilized regression, ANOVA, and t-tests to assess wage impacts and predict future trends, achieving R-squared values as high as 0.95.",
+          description: "This is a project I completed as part of my Introduction to Data Science class. Here, I, along with my team, designed a tutorial for analyzing 49 years of wage data in the US using data analysis/machine learning techniques in Python. We utilized regression, ANOVA, and t-tests to assess wage impacts and predict future trends, achieving R-squared values as high as 0.95. This project helped me learn several fundamental data science/ML techniques.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{
