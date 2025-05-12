@@ -2,7 +2,7 @@
 layout: page
 title: Wage Analysis
 description: This is a project I completed as part of my Introduction to Data Science class. Here, I, along with my team, designed a tutorial for analyzing 49 years of wage data in the US using data analysis/machine learning techniques. We utilized regression, ANOVA, and t-tests to assess wage impacts and predict future trends, achieving R-squared values as high as 0.95.
-img: assets/img/4.jpg
+img: assets/img/wageanalysis.png
 redirect: https://github.com/saunakroy/320-Final-Project
 importance: 2
 category: work
