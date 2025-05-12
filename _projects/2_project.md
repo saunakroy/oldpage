@@ -1,8 +1,9 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image and giscus comments
+description: This is a research paper I published as part of a team during my internship at UMD’s OUR Summer Research program. In this project, I examined undergraduate AI literacy at UMD through several data analysis/science techniques. I used R/NVivo software to visualize patterns in AI literacy data collected from UMD undergraduates and discovered a positive correlation between students’ technical AI knowledge and perception of AI’s risks to humanity, among other trends and patterns. Our paper has been accepted to and presented at the ACM SIGCSE 2025 conference.
 img: assets/img/3.jpg
+redirect: https://drive.google.com/file/d/1PZYVS4tUz96Lc9AKLdC-QrCUDICeRBNJ/view?usp=sharing
 importance: 2
 category: work
 giscus_comments: true

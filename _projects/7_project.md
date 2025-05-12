@@ -1,9 +1,10 @@
 ---
 layout: page
 title: project 7
-description: with background image
+description: This is a project I completed as part of my Introduction to Data Science class. Here, I, along with my team, designed a tutorial for analyzing 49 years of wage data in the US using data analysis/machine learning techniques. We utilized regression, ANOVA, and t-tests to assess wage impacts and predict future trends, achieving R-squared values as high as 0.95.
 img: assets/img/4.jpg
-importance: 1
+redirect: https://github.com/saunakroy/320-Final-Project
+importance: 2
 category: work
 related_publications: true
 ---
