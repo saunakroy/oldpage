@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3 with very long name
+title: TSP Algorithms
 description: This is a project I completed as part of my Introduction to Artificial Intelligence class. Here, I implemented seven different algorithms for solving the Traveling Salesman Problem and visualized their efficiency, runtime, cost, etc., through detailed graphs.
 img: assets/img/7.jpg
 redirect: https://github.com/saunakroy/Solving-TSP-HW/blob/main/Saunak_Roy_TSP.ipynb
