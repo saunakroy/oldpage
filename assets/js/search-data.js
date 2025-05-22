@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-personal-statement",
-          title: "Personal Statement",
+        },{id: "nav-resume",
+          title: "Resume",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -398,7 +398,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-tsp-algorithms",
           title: 'TSP Algorithms',
-          description: "This is a project I completed as part of my Introduction to Artificial Intelligence class. Here, I implemented seven different algorithms for solving the well-known Traveling Salesman Problem using Python and visualized their efficiency, runtime, cost, etc., through detailed graphs. This project took several hours to complete and strongly developed my algorithmic thinking skills as a result.",
+          description: "In this project, I implemented seven different algorithms for solving the well-known Traveling Salesman Problem using Python and visualized their efficiency, runtime, cost, etc., through detailed graphs. This project took several hours to complete and strongly developed my algorithmic thinking skills as a result.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-wage-analysis",
