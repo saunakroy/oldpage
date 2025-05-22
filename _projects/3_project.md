@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TSP Algorithms
-description: This is a project I completed as part of my Introduction to Artificial Intelligence class. Here, I implemented seven different algorithms for solving the well-known Traveling Salesman Problem using Python and visualized their efficiency, runtime, cost, etc., through detailed graphs. This project took several hours to complete and strongly developed my algorithmic thinking skills as a result.
+description: In this project, I implemented seven different algorithms for solving the well-known Traveling Salesman Problem using Python and visualized their efficiency, runtime, cost, etc., through detailed graphs. This project took several hours to complete and strongly developed my algorithmic thinking skills as a result.
 img: assets/img/tsp.png
 redirect: https://github.com/saunakroy/Solving-TSP-HW/blob/main/Saunak_Roy_TSP.ipynb
 importance: 2
